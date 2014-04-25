@@ -1,5 +1,3 @@
-package game;
-
 import gui.FullScreen;
 
 import java.awt.GraphicsDevice;
